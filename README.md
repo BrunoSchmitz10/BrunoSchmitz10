@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨🏻‍💻 Bruno Schmitz
 
-<!--
-**BrunoSchmitz10/BrunoSchmitz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Futuro Dev Full Stack | Em transição de carreira`**
 
-Here are some ideas to get you started:
+👋 Olá! Meu nome é Bruno Alexandre Schmitz, tenho 30 anos e sou natural de Santa Catarina, Brasil.
+🎓 Atualmente, estou cursando Ciência da Computação e complemento minha formação com cursos práticos voltados ao desenvolvimento web.
+🚀 Tenho buscado constantemente evoluir através de projetos, cursos e desafios que envolvem tanto o front-end quanto o back-end.
+💻 No GitHub, coloco na prática o que estou aprendendo: códigos, projetos e ideias que vão evoluindo com o tempo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+
+Atualmente estudando e praticando com:
+
+<div style="display: flex; gap: 10px;">
+<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+</div>
+<br/><br/>
+
+🎯 Tecnologias que pretendo aprender em breve:
+
+<div style="display: flex; gap: 10px;">
+<img align="left" alt="jQuery" title="jQuery" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+
+<img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="MongoDB" title="MongoDB" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="Bootstrap" title="Bootstrap" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<img align="left" alt="Electron" title="Electron" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+
+<img align="left" alt="Firebase" title="Firebase" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />
+
+</div>
+<br/><br/>
